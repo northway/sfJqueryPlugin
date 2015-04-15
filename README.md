@@ -1,4 +1,6 @@
-# sfJqueryPlugin For Symfony 1.4
+# sfJqueryPlugin
+
+jQuery plugin for Symfony 1.4
 
 Contains:
  - jQuery 1.11.2 compressed
