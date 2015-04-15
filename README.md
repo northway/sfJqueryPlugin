@@ -25,11 +25,10 @@ Then a Symfony cache clear:
 
 ## Usage
 
-view.yml:
+  view.yml
 
-  default:
-    javascripts:
-      - /sfJqueryPlugin/js/jquery-1.11.2.min.js
+    default:
+      javascripts: [/sfJqueryPlugin/js/jquery-1.11.2.min.js]
 
 If you run into some error, check symfony logs and script logs.
 
