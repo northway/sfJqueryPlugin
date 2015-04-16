@@ -21,6 +21,10 @@ You need to add this line to ProjectConfiguration.class.php:
 
     $this->enablePlugins('sfJqueryPlugin');
 
+Publish assets:
+
+    $ php symfony plugin:publish-assets
+
 Then a Symfony cache clear:
 
 		$ php symfony cc
